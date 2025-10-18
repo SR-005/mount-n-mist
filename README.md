@@ -72,7 +72,7 @@ The application will be available at http://127.0.0.1:5000.
 
 This application is deployed and live on PythonAnywhere. The platform's persistent filesystem is ideal for hosting applications with an SQLite database, as it prevents data loss on server restarts.
 
-Live URL: http://your-username.pythonanywhere.com
+Live URL: https://xlr8.pythonanywhere.com
 
 ## Project Structure
 ```
